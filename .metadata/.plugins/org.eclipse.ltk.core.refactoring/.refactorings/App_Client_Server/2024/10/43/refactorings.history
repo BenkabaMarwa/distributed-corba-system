@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;App&apos; to &apos;Server&apos;&#x0D;&#x0A;- Original project: &apos;App_Client_Server&apos;&#x0D;&#x0A;- Original element: &apos;App_Client_Server/App&apos;&#x0D;&#x0A;- Renamed element: &apos;App_Client_Server/Server&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;App&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/&lt;App" name="Server" qualified="false" references="true" stamp="1729540911950" textual="false" version="1.0"/>
+</session>
