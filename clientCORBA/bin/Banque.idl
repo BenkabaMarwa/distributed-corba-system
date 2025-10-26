@@ -1,0 +1,14 @@
+module corbaBanque {
+	
+	 struct Compte{
+          long code;
+          double solde;
+      };
+   
+      interface IBanqueRemote {
+           double conversion(in double mt);
+           Compte getCompte(in long code);
+      };
+
+	
+};
