@@ -46,3 +46,6 @@ It allows communication between a client and a server over a distributed network
   ```
 
 ### 4. Run the client
+  ```bash
+  java clientCorba.Client
+  ```
