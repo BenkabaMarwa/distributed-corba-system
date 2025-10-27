@@ -20,6 +20,7 @@ CORBA (Common Object Request Broker Architecture) is a middleware technology tha
 ---
 
 ## 🚀 Features
+
 - Remote Object Communication using CORBA
 - Object registration and lookup via ORB (Object Request Broker)
 - Separation between client and server logic
@@ -28,6 +29,7 @@ CORBA (Common Object Request Broker Architecture) is a middleware technology tha
 ---
 
 ## 🛠️ Technologies Used
+
 - **Java CORBA API**
 - **IDL (Interface Definition Language)**
 - **Eclipse IDE**
