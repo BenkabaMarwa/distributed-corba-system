@@ -5,7 +5,7 @@ It allows communication between a client and a server over a distributed network
 
 ---
 
-##🧠 About CORBA
+## 🧠 About CORBA
 
 CORBA (Common Object Request Broker Architecture) is a middleware technology that allows programs written in different languages and running on different platforms to work together as if they were in the same system.
 
