@@ -30,11 +30,19 @@ It allows communication between a client and a server over a distributed network
 
 ## ⚙️ How to Run
 
-### 1️⃣ Compile the IDL file
+### 1️. Compile the IDL file
   ```bash
   idlj -fall MyInterface.idl
   ```
-##### 1. Start the ORB naming service
+
+### 2. Start the ORB naming service
   ```bash
   tnameserv -ORBInitialPort 1050
   ```
+
+### 3. Run the server
+  ```bash
+  java serverCorba.Server
+  ```
+
+### 4. Run the client
