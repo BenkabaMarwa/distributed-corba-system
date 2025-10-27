@@ -10,3 +10,31 @@ It allows communication between a client and a server over a distributed network
 ├── clientCORBA/ → Contains the CORBA client implementation
 ├── serverCORBA/ → Contains the CORBA server implementation
 └── README.md
+
+---
+
+## 🚀 Features
+- Remote Object Communication using CORBA
+- Object registration and lookup via ORB (Object Request Broker)
+- Separation between client and server logic
+- Platform-independent communication
+
+---
+
+## 🛠️ Technologies Used
+- **Java CORBA API**
+- **IDL (Interface Definition Language)**
+- **Eclipse IDE**
+
+---
+
+## ⚙️ How to Run
+
+### 1️⃣ Compile the IDL file
+  ```bash
+  idlj -fall MyInterface.idl
+  ```
+##### 1. Start the ORB naming service
+  ```bash
+  tnameserv -ORBInitialPort 1050
+  ```
