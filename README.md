@@ -49,3 +49,8 @@ It allows communication between a client and a server over a distributed network
   ```bash
   java clientCorba.Client
   ```
+
+---
+
+## 👩‍💻 Author
+Benkaba Marwa
